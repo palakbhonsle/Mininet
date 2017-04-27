@@ -1,4 +1,4 @@
-# mininet1
+# mininet
 Mininet: Instant Virtual Network
 customizing the mininet script, we can customize a wide range of network properties
 The following parameters customization is shown:
